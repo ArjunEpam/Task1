@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-11-08T09:52:18.506814400Z</date>
+  <millis>1699437138506</millis>
+  <nanos>814400</nanos>
+  <sequence>5</sequence>
+  <logger>tasks2.task7.LoggingDemo</logger>
+  <level>INFO</level>
+  <class>tasks2.task7.LoggingDemo</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Log message to file.</message>
+</record>
+</log>
