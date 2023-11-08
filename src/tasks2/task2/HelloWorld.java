@@ -6,7 +6,7 @@ public class HelloWorld {
             String name = args[0];
             System.out.println("Hello, " + name);
         } else {
-            System.out.println("Please provide a name as a command line argument.");
+            System.out.println("Please provide in command line arg");
         }
     }
 }

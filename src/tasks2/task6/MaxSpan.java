@@ -1,3 +1,5 @@
+package tasks2.task6;
+
 public class MaxSpan {
     public static void main(String[] args) {
         int[] nums1 = {1, 2, 1, 1, 3};

@@ -1,3 +1,5 @@
+package tasks2.task5;
+
 public class ShareDigit {
     public static void main(String[] args) {
         int num1 = 12;
